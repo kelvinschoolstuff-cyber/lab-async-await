@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha --timeout 5000 --reporter spec"
   },
-  "author": "flatironschool",
+  "author": "kelvin njenga ",
   "license": "Included in Repo",
   "dependencies": {
     "@babel/core": "^7.23.0",
